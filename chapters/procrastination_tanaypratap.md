@@ -69,22 +69,25 @@ However, if this is a repeating pattern. Maybe your energy levels are down. 8-9 
 
 ## a word around teamwork
 
-- all I have done is because of a team
-- social media can be a team too
-- live session
-- giving someone a deadline makes it real and deadline panic monster takes over
+Though we talk about teamwork to multiply productivity in detail in a different chapter, the effects of teamwork on procrastination is worth some discussion. I don't know about other folks but teamwork has work wonders for me. To be honest, fromt this book, to research paper, to newsletter everything is done with one or more person in the team. A team mate provides you the required push on a side project. Together both of you try to build a regular cadence of closing tasks.
+
+For this book, we use this metaphor of tennis, where I would write one chapter and send it to Satyam Sir and say, "Ball's in your court now!". And after his he would do the same. The pull and push of a team helps your momentum.
+
+The other thing, which I have found quite useful is treating my students as my team. I give them a deadline well in advance saying by this weekend you'll have a course on X tech on Youtube. And then create that artificial deadline for me where panic monster takes over and you get the work done. The takeway for anyone from this could be that you can use social media as your team by publicly declaring, "I am going to release my first blog this weekend, and I don't hold me responsible!". Public image is a good tool to fight procrastination.
 
 ## streak is the biggest reward
 
-- personal examples
-- 1 year of fitness
-- writing streak
+It's 11:53PM, I had a long day at office today with tons of work. And I'm still writing this book. Why? Let me tell you. When we started writing this book, we didn't have a clear deadline, coz let's be honest no one was paying us to do this. Also, this is the first time ever, I thought of writing a book. The thought itself was daunting. After first few months of tidal movements, I did something which has worked for me before.
 
-- key is to have visible progress.
-  - tracking is super important.
-  - this is where gym or weight loss fails.
-  - Project the progress away from the real deal.
-  - Patience is key
+I took a sheet of paper, drew boxes on it and put it in my bedroom. And I said, "Everyday I need to write five hundred words minimum, and I get to color a box!". Just this simple: **making the progress visible** process maintained the momentum. Days where I felt like I am too tired and can't write, I was unable to let my _streak_ go. I am not kidding you, one day my neighbour had a little accident, and I had to take her to hospital. I can see my streak breaking before my eyes. The moment doctor took her in, I sat in a chair, wrote my 500 words (that's the effective learning chapter) on my phone.
+
+> Trust me on this, streak is its own reward!
+
+I knew this would work coz I had done this before. When I wanted to be fit, I created a streak of 1 year plus, where I walked every day for 1 hour. So, if I haven't done it by 11PM night, I would be possesed by a supernatural power and walk for the next one hour. It would be super awkward if I was at a party and I haven't done my steps, I would excuse and go for walk. You know how cruel your friends can be when you do something this weird.
+
+Slowly, I started planning the day around this. See to maintain a streak like this you have to plan well. I can't just write 500 words daily. So, whenever I have more time in hand, I do my research for the book, create outlines, put pointers. So, the only thing left to do is to actually _sit and write_.
+
+Many people who go to gym, or start a new project lose the momentum. Why? It's because they **don't see real progress** happening. When you have put few extra kilos and you go to gym even for a week or two, there won't be visible changes. Similarly, writing 500 words per day would only complete one chapter of this book. The streak chart helps in this. It projects the progress away from the real deal and releases happy harmones everyday. These are some good harmones to get addicted too. :)
 
 ## procrastination is good for creativity
 

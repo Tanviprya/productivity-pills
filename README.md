@@ -21,7 +21,7 @@ Book covering the ideas and practices making me productive.
 - teamwork (#16 and #20 )
 - attention management
 
-  - [Tanay](chapters/attention_management_tanaypratap.md)
+  - [Tanay (unfinished)](chapters/attention_management_tanaypratap.md)
   - [Satyam](chapters/attention_management_satyamsir.md)
 
 - using social media to your advantage: consume the community (#15 and #19 )
@@ -32,7 +32,7 @@ Book covering the ideas and practices making me productive.
 
 ### learning fast
 
-- effective learning techniques
+- effective learning techniques (unfinished)
 - weekend Marathons: going to next level (#21 )
 
 ### that ultimate pill

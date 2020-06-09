@@ -41,11 +41,13 @@ If you take a pen and start making the routine now, get the resolve to follow it
 
 ## lizard brain
 
--reptillian brain
+Before we go deep into how to tackle this beast. Let's first understand why we procrastinate. My theory is that understanding problem is half the solution itself. Okay, so everyone procrastinates. If it's such a bad thing, then why didn't evolution grow out of it?
 
-- fear of failure, flight or fight
-- overwhelming tasks
-- the two minute trick
+The evolution of mankind didn't outgrow procrastination because it had an evolutionary advantage. When we were'nt this equipped, thinking of a massive task and doing it would have killed us. So, natural selection took care of those ancestors which on a bright sunny day thought of going and drilling a hole in a mountain. They dehydrated and died. People who didn't exhaust themselves with following draining ideas lived and we are their children.
+
+Your brain is wired to conserve energy. When you think of a task which seems insurmountable at the moment, you brain's fight or flight response kicks in due to the fear of failure. And your brain tells you that there' no point in pursuing this overwhelming task, coz we might die.
+
+There's a simple way to trick your brain. It's called **two minute trick**. Instead of thinking that I am going to sit and write for 2 hours today, tell yourself that you'll just sit and write for 2 minutes. The moment your brain gets into intertia your reptile/lizard brain goes into background and your sophisticated/human brain takes over and that can complete the task! However, to tell yourself that you would only work for 2 or 5 minutes you would also need a small win and that's where the next section comes up.
 
 ## small wins
 
@@ -91,18 +93,22 @@ Many people who go to gym, or start a new project lose the momentum. Why? It's b
 
 ## procrastination is good for creativity
 
-- Give your examples around talks and YT lives.
-- Adam Grant Originals
-- don't procrastinate on the work, do it on the final output
+Procrastination. It's not always bad. I was reading this book Originals from a Wharton Professor named Adam Grant. An interesting thing came up which related to instantly. Turns out that people who are more creative in their field, the "Originals" tend to procrastinate a lot. Now! don't throw away this book and feel that your life is sorted, read ahead.
+
+So, the thing is that when you are working on a piece of art, something which needs your creative brain more, procrastination is a good thing. When I have to give a talk, or do a YT live, I put the slide preparation aside up until last minute. Does this mean things magically happen in the last minute and I get super creative and produce awesome talks?
+
+No! what I do, or many people who follow this practice do is they don't mark their work "complete" up until last minute. I keep taking notes on my phones, keep doing research, bookmarking stuff, checking out new memes which can be used in the talk, or thinking of good analogies. Our brain is an amazing machine, if you don't mark a creative task complete it will keep thinking about it day and night, sometimes in a separate thread and you'll get amazing ideas. If you learn to use this technique right your final output will always be better than something which you would have sat and completed in one go. As with any other thing, don't overuse it or you'll feel exhausted. Learn to use the diffuse mode right and it can produce amazing results.
+
+> Remember! Do not procrastinate on work, do it on the final output.
 
 ## using procrastination as a signal
 
-- knowing your strengths and weaknesses
+People who are super productive in life, do procrastinate on a lot of stuff. Some programmers who are really good at their craft, takes weeks to write a programming blog. If you ask me to code an app, I will be always ready, but to write one chapter of the book I had to make a chart. Ask me if I ever made a chart for programming everyday? I have been doing it for 15 years now and still jump at any opportunity.
 
-  - I can code anytime
-  - But writing needs more mental energy
+The point I am trying to make is that when you put off a task, that's a signal that your core strength doesn't reside there. Read these signals enough and you can understand what feels like work and what feels like play. There's one more thing. There are particular times in the day when you would be less prone to procrastinate a particular task than the other parts. There's a [lot of research](https://www.psychologytoday.com/us/blog/the-human-beast/201906/the-most-creative-time-day) around the circadian rhythm and creative tasks. If you take the time to read it and tap into those signals as well, one might be able to be more productive around a certain type of work.
 
-> E.B. White once [wrote](https://archive.nytimes.com/www.nytimes.com/books/97/08/03/lifetimes/white-notes.html): “I arise in the morning torn between a desire to improve (or save) the world and a desire to enjoy (or savor) the world. This makes it hard to plan the day.”
+Now, when we started this chapter we talked about that this would be focused for side projects, for blogs, for books or anything you want to do where there's no strict deadlines. If you're feeling like procrastinating around these things, maybe that's a signal that you don't enjoy it enough. Don't pickup something that dreadful after college or office, or change your approach. Or, find a team partner which enjoys exactly that part which you dread.
 
-- this is around side projects. Make it a delight. You shouldn't start something which you absolutely dread just because someone else is doing it.
-- same for job, if you're smart, and you love your field, there's a job out there which would truly excite you (if not everyday) most of the days.
+At last, I would go on to say that if you're intelligent and work in a field which has demand, this signal applies for your work too. Quit a job if you don't feel excited about doing it everyday. If you feel like cutting corners. However, quitting college or job is a dangerous advice to give to someone through a book. So, please find that thing which you actually "enjoy" and which too has a bright future before following the quitting advice. Don't blame me later.
+
+The point I am trying to make with the last two sections is that procrastination is not always bad. It's a tool for creativity and a signal from your soul. Once you understand it better, have a beautiful relationship with it, it will aid you in your success.

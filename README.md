@@ -9,10 +9,10 @@ Book covering the ideas and practices making me productive.
 ### defeating the enemies of productivity
 
 - distraction
-  - [Tanay (unfinished)](chapters/distraction_tanaypratap.md)
+  - [Tanay](chapters/distraction_tanaypratap.md)
   - [Satyam](chapters/distraction_satyamsir.md)
 - procrastination
-  - [Tanay (unfinished)](chapters/procrastination_tanaypratap.md)
+  - [Tanay](chapters/procrastination_tanaypratap.md)
   - [Satyam](chapters/procrastination_satyamsir.md)
 
 ### befriending the boosters

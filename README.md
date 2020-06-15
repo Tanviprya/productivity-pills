@@ -9,8 +9,10 @@ Book covering the ideas and practices making me productive.
 ### defeating the enemies of productivity
 
 - distraction
+
   - [Tanay](chapters/distraction_tanaypratap.md)
   - [Satyam](chapters/distraction_satyamsir.md)
+
 - procrastination
   - [Tanay](chapters/procrastination_tanaypratap.md)
   - [Satyam](chapters/procrastination_satyamsir.md)
@@ -39,6 +41,9 @@ Book covering the ideas and practices making me productive.
 ### planning better
 
 - SMART goals and being Agile
+
+  - [Tanay](chapters/smart_goals_tanaypratap.md)
+  - [Satyam](chapters/smart_goals_satyamsir.md)
 
 ### learning fast
 

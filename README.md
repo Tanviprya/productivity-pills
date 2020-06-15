@@ -17,8 +17,16 @@ Book covering the ideas and practices making me productive.
 
 ### befriending the boosters
 
-- effective exercise ( #12 and #22 )
-- teamwork (#16 and #20 )
+- effective exercise
+
+  - [Tanay](chapters/effective_exercices_tanaypratap.md)
+  - [Satyam](chapters/effective_exercices_satyamsir.md)
+
+- teamwork
+
+  - [Tanay](chapters/teamwork_tanaypratap.md)
+  - [Satyam](chapters/teamwork_satyamsir.md)
+
 - attention management
 
   - [Tanay (unfinished)](chapters/attention_management_tanaypratap.md)

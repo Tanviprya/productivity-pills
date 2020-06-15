@@ -4,7 +4,12 @@
   - have not read the book
   - how you realized you're passively doing it
 
-* utilize your subconscious mind
+* new thoughts:
+
+One thing which always help when you're nervous about something is to visualize yourself doing it. I read this when I was a kid, I don't know which book it was: You Can Win by Shiv Kheda or Memory, Mind and Body by Biswaroop Roy Choudhary.
+When I was afraid of giving speech, I would imagine myself delivering the perfect speech, and people clapping. This might sound absurd if you haven't tried it yet, but it does help.
+
+- utilize your subconscious mind
 
   - we do not make all the decisions consciously, there are shortcut on the neural pathways and you can program those using these methods. Makes decision making easy. Clears confusion clouds.
   - the practice of Yoga Nidra sankalpa
@@ -22,6 +27,6 @@
   - knowing what you want from life helps. Think and Grow Rich works completely on this idea.
   - Find the answers with a closing routine. End with the right question.
 
-* follow the tips from Satyam Sir's part
+- follow the tips from Satyam Sir's part
   - asked him to write this chapter first
   - have been practising it, the days I sleep with productive/positive thoughts have an extremely productive next day, I was up at 5AM and finished this chapter, thanks to the same tip.

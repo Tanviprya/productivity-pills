@@ -31,7 +31,7 @@ Book covering the ideas and practices making me productive.
 
 - attention management
 
-  - [Tanay (unfinished)](chapters/attention_management_tanaypratap.md)
+  - [Tanay](chapters/attention_management_tanaypratap.md)
   - [Satyam](chapters/attention_management_satyamsir.md)
 
 - using social media to your advantage: consume the community

@@ -32,16 +32,24 @@ Book covering the ideas and practices making me productive.
   - [Tanay (unfinished)](chapters/attention_management_tanaypratap.md)
   - [Satyam](chapters/attention_management_satyamsir.md)
 
-- using social media to your advantage: consume the community (#15 and #19 )
+- using social media to your advantage: consume the community
+  - [Tanay](chapters/social_media_to_your_advantage_tanaypratap.md)
+  - [Satyam](chapters/social_media_to_your_advantage_satyamsir.md)
 
 ### planning better
 
-- SMART goals and being Agile ( #13, #18 )
+- SMART goals and being Agile
 
 ### learning fast
 
 - effective learning techniques (unfinished)
-- weekend Marathons: going to next level (#21 )
+
+  - [Tanay (unfinished)](chapters/effective_learning_tanaypratap.md)
+  - [Satyam (unfinished)](chapters/effective_learning_satyamsir.md)
+
+- weekend Marathons: going to next level
+  - [Tanay](chapters/weekend_marathons_tanaypratap.md)
+  - [Satyam (TBD)](chapters/weekend_marathons_satyamsir.md)
 
 ### that ultimate pill
 

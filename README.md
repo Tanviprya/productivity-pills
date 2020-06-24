@@ -59,5 +59,5 @@ Book covering the ideas and practices making me productive.
 ### that ultimate pill
 
 - productive programming yourself
-  - [Tanay (unfinished)](chapters/productive_programming_tanaypratap.md)
+  - [Tanay](chapters/productive_programming_tanaypratap.md)
   - [Satyam](chapters/productive_programming_satyamsir.md)

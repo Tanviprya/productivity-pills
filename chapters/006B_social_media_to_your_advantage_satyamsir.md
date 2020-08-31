@@ -1,4 +1,8 @@
-# social media to your advantage (satyamsir)
+---
+id: 006B
+title: "social media to your advantage"
+sidebar_label: "social media++ (satyam)"
+---
 
 > Man is a social animal and one who doesn't want to live in society he is either God or Devil.  
 >  \- **Aristotle**

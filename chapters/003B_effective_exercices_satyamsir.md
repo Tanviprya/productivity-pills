@@ -1,4 +1,8 @@
-# effective exercise
+---
+id: 003B
+title: "everything you need to know about exerices"
+sidebar_label: "exercise (satyam)"
+---
 
 More than 2000 years ago great philosopher, master and visionary Plato had stated, "Lack of activity destroys the good conditions of every human being while movement and methodological physical exercises save it and preserve it."
 

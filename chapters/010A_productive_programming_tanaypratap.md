@@ -1,8 +1,12 @@
-# programming your subconscious
+---
+id: 010A
+title: "programming your subconscious"
+sidebar_label: "subconscious programming (tanay)"
+---
 
 ## background
 
-When we decided to write this book, we thought of writing everything we knew about productivity. However, soon we realised that it's an impossible task to complete. So one day, we got on a call and discussed the top 10 topics. We both got 5 votes. Unfortunately, or rather fortunately, Satyam Sir used his veto on putting this chapter in. This was something I was not onboard to be honest, but he insisted, he said that this is the ultimate weapon his arsenal and that we should end the book with this. Fine! I said, I trust him much more to argue over one chapter.
+When we decided to write this book, we thought of writing everything we knew about productivity. However, soon we realised that it's an impossible task to complete. So one day, we got on a call and discussed the top 10 topics. We both got 5 votes. Unfortunately, or rather fortunately, Satyam Sir used his veto on putting this chapter in. This was something I was not onboard to be honest, but he insisted, he said that this is the ultimate weapon in his arsenal and that we should end the book with this. Fine! I said, I trust him much more to argue over one chapter.
 
 So, I asked him to write this chapter first. I would read it, try to follow it and then at least can write my experiences around it. When I read the chapter, I started practising it. He talks about sleeping with the productive/positive thoughts. And trust me, this whole Covid situation has been hard on all of us. But this one trick, has helped me a lot to stay on track every day. I did lose few days but like a compass this chapter (satyam sir's version) showed me the right path. I think I will be eternally thankful to him for introducing this thought process to me. I then ordered the book, "The Power of Subconscious Mind" and read it cover to cover. If you read that book, you'll find that the ideas are getting repeated over and over again. And sometimes it would be hard to believe the miracles too. It asks for a lot of faith, which is hard to come by in today's world. However, when I started looking into my own life, I found that the things I have done right are because of the right seeds, and the things which have gone wrong were also my doing. Thus, for better or worse, I am in control of my life.
 

@@ -1,4 +1,8 @@
-# teamwork
+---
+id: 004A
+title: "one plus one equals eleven"
+sidebar_label: "teamwork (tanay)"
+---
 
 ## conflict of upbringing
 

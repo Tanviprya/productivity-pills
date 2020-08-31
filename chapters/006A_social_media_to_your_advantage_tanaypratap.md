@@ -1,4 +1,8 @@
-# consuming the community
+---
+id: 006A
+title: "consuming the community"
+sidebar_label: "social media++ (tanay)"
+---
 
 ## brain wants relief from productivity
 

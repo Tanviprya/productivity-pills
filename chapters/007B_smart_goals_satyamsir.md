@@ -1,4 +1,8 @@
-# make your goals smart (satyamsir)
+---
+id: 007B
+title: "make your goals smart "
+sidebar_label: "planning (satyam)"
+---
 
 > ”When you are inspired by some great purpose, some extraordinary project, all your thoughts break their bounds. Your mind transcends limitations, your consciousness expands in every direction and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive and you discover yourself to be a greater person than you ever dreamed yourself to be.”
 

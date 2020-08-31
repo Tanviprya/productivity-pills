@@ -1,4 +1,8 @@
-# attention management (satyamsir)
+---
+id: 005B
+title: Attention Management
+sidebar_label: "attention (satyam)"
+---
 
 As we all know the concentrated ray of sun can burn a paper. It is all about the power of concentration. but I will explore my view to the topic with a small incident of Mahabharata.
 

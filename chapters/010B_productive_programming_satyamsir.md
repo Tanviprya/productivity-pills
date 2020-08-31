@@ -1,4 +1,8 @@
-# subconscious programming (satyamsir)
+---
+id: 010B
+title: "use our subconscious mind efficiently"
+sidebar_label: "subconscious programming (satyam)"
+---
 
 In our opinion 'to use our subconscious mind efficiently' is the most useful productive pill we can use for making ourselves more productive. So we decided to reveal it in our last chapter.
 

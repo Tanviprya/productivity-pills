@@ -1,4 +1,8 @@
-# effective learning
+---
+id: 008A
+title: "effective learning"
+sidebar_label: "learning (tanay)"
+---
 
 Okay, I am just gonna go ahead and say it. We don't know how to learn. So much of the things which will come out in this chapter might surprise you and it might challen your life long beliefs of learning.
 

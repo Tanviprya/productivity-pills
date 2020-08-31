@@ -1,4 +1,8 @@
-# teamwork
+---
+id: 004B
+title: "replace I with We"
+sidebar_label: "teamwork (satyam)"
+---
 
 When 'I' is replaced with 'we' even illness turns into Wellness. This is the power of a team.
 I elaborate the team as 'T' means together, 'E' means everyone, 'A' means achievement and "M' means more. So we can say that Team stands for "together everyone achievement more."

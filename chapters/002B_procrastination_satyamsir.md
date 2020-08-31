@@ -1,4 +1,8 @@
-# procrastination (satyamsir)
+---
+id: 002B
+title: "Procrastinate Procrastination"
+sidebar_label: "procrastination (satyam)"
+---
 
 ## what is it?
 

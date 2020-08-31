@@ -1,4 +1,8 @@
-# planning
+---
+id: 007A
+title: "Plan"
+sidebar_label: "planning (tanay)"
+---
 
 ## the problem
 

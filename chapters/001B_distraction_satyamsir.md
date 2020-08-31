@@ -1,6 +1,8 @@
-# put down your phone
-
-Satyam Says for #4
+---
+id: 001B
+title: "put down your phone"
+sidebar_label: "distraction (satyam)"
+---
 
 ## understanding the why
 

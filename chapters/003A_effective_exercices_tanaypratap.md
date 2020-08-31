@@ -1,4 +1,8 @@
-# effective exercises
+---
+id: 003A
+title: "effective exercises"
+sidebar_label: "exercise (tanay)"
+---
 
 Growing up I was not the most active kid. I got computer at a young age and video games and other stuff became my goto agents to take a break. Which in hindsight worked out well. But there comes a time in every young boy's life when he wants to look fit and bulky. It came in college. It was easy to be in shape in college coz had to walk everywhere but as soon as I came to Bangalore, in few months it was pretty clear that if I don't something I'll end up 100+ kgs.
 

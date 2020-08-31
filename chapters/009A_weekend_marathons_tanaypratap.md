@@ -1,4 +1,8 @@
-# weekend marathons
+---
+id: 009A
+title: "weekend marathons"
+sidebar_label: "marathon learning (tanay)"
+---
 
 Of all the things shared in this book, this one has helped me the most. However, to achieve this I had to use all the other chapters. This is something which sounds easy to do, and not that hard to do, but if you do it, you'll produce amazing results.
 

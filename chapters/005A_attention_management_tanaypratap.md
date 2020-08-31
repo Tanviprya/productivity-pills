@@ -1,4 +1,8 @@
-# attention
+---
+id: 005A
+title: "manage attention"
+sidebar_label: "attention (tanay)"
+---
 
 ## a story for good gpa
 

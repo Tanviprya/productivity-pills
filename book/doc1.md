@@ -1,7 +1,7 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Attention Management
+sidebar_label: Attention Management
 slug: /
 ---
 

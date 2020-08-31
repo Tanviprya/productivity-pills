@@ -8,6 +8,14 @@ module.exports = {
   organizationName: 'tanaypratap', // Usually your GitHub org/user name.
   projectName: 'theproductivitybook.com', // Usually your repo name.
   themeConfig: {
+    plugins: ['@docusaurus/plugin-google-analytics'],
+    themeConfig: {
+      googleAnalytics: {
+        trackingID: 'UA-49394184-6',
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
+    },
     navbar: {
       title: 'theproductivitybook',
       logo: {

@@ -1,4 +1,8 @@
-# effective learning techniques (satyamsir)
+---
+id: 008B
+title: "Age is just a number"
+sidebar_label: "learning (satyam)"
+---
 
 I would like to start this special chapter with mentioning an incident that occurred in Swami Ramtirtha's life which I have read in a magazine many years before.
 

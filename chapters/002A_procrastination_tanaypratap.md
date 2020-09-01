@@ -1,4 +1,8 @@
-# procrastination
+---
+id: 002A
+title: "procrastination"
+sidebar_label: "procrastination (tanay)"
+---
 
 ## introduction
 

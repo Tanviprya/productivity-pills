@@ -5,16 +5,12 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'tanaypratap', // Usually your GitHub org/user name.
-  projectName: 'the-productivity-book', // Usually your repo name.
+  organizationName: 'tanaypratap',
+  projectName: 'the-productivity-book',
   themeConfig: {
-    plugins: ['@docusaurus/plugin-google-analytics'],
-    themeConfig: {
-      googleAnalytics: {
-        trackingID: 'UA-49394184-6',
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
+    googleAnalytics: {
+      trackingID: 'UA-49394184-6',
+      anonymizeIP: true,
     },
     navbar: {
       title: 'theproductivitybook',
@@ -23,17 +19,11 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [{
-          to: 'book/',
-          activeBasePath: 'book',
-          label: 'Read',
-          position: 'left',
-        },
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
-      ],
+        to: 'book/',
+        activeBasePath: 'book',
+        label: 'Read',
+        position: 'left',
+      }, ],
     },
     footer: {
       style: 'dark',
@@ -70,11 +60,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          // It is recommended to set document id as docs home page (`docs/` path).
           path: "chapters",
           routeBasePath: "book",
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl: "https://github.com/tanaypratap/the-productivity-book/tree/master",
         },
         theme: {

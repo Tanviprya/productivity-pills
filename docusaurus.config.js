@@ -1,12 +1,12 @@
 module.exports = {
   title: 'the productivity book',
   tagline: 'just enough productivity funda to get you started',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://theproductivitybook.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'tanaypratap', // Usually your GitHub org/user name.
-  projectName: 'theproductivitybook.com', // Usually your repo name.
+  projectName: 'the-productivity-book', // Usually your repo name.
   themeConfig: {
     plugins: ['@docusaurus/plugin-google-analytics'],
     themeConfig: {
@@ -75,7 +75,7 @@ module.exports = {
           routeBasePath: "book",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/", // TODO
+          editUrl: "https://github.com/tanaypratap/the-productivity-book/tree/master",
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

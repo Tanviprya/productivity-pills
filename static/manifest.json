@@ -1,0 +1,15 @@
+{
+    "short_name": "theproductivitybook",
+    "name": "The Productivity Book",
+    "description": "a book on productivity",
+    "icons": [{
+        "src": "/img/productivity.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }],
+    "start_url": "/?source=pwa",
+    "background_color": "#4f49c1",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#4f49c1"
+}

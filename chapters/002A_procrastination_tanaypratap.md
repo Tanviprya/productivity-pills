@@ -140,7 +140,7 @@ I knew this would work as I had done this before. This is about a time when I wi
 
 Slowly, I started planning the day around this. I realised that to maintain a streak like this one must plan well. I can't just write 500 words daily. So, whenever I had more time in hand, I did my research for the book, created outlines, put pointers. Then, the only thing left to do would be to actually _sit and write_.
 
-Many people who go to gym, or start a new project lose the momentum. Why? It's because they **don't see real progress** happening. If you put few extra kilos and go to the gym even for a week or two, there won't be any visible changes. Similarly, writing 500 words per day would only complete small part of this book. But, the streak chart helps by projecting the progress away from the real deal, making your daily progress visible and releasing happy hormones everyday. These are some good hormones to get addicted too. :)
+Many people who go to gym, or start a new project lose the momentum. Why? It's because they **don't see real progress** happening. If you put few extra kilos and go to the gym even for a week or two, there won't be any visible changes. Similarly, writing 500 words per day would only complete small part of this book. But, the streak chart helps by projecting the progress away from the real deal, making your daily progress visible and releasing happy hormones everyday. These are some good hormones to get addicted to. :)
 
 >### *PRO*-Start
 >  Have you made your streak chart? Share your streaks and progress with your Pro-community. 

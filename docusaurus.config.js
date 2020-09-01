@@ -1,7 +1,7 @@
 module.exports = {
   title: 'the productivity book',
   tagline: 'just enough productivity funda to get you started',
-  url: 'https://theproductivitybook.com/',
+  url: 'https://theproductivitybook.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -27,31 +27,6 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        // {
-        //   title: 'Book',
-        //   items: [{
-        //     label: 'Style Guide',
-        //     to: 'Book/',
-        //   }],
-        // },
-        // {
-        //   title: 'Community',
-        //   items: [{
-        //       label: 'Stack Overflow',
-        //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //     },
-        //     {
-        //       label: 'Discord',
-        //       href: 'https://discordapp.com/invite/docusaurus',
-        //     },
-        //     {
-        //       label: 'Twitter',
-        //       href: 'https://twitter.com/docusaurus',
-        //     },
-        //   ],
-        // },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} The Productivity Book, Built by Tanay Pratap`,
     },
   },

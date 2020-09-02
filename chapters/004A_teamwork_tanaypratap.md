@@ -1,39 +1,58 @@
+
 ---
 id: 004A
 title: "one plus one equals eleven"
 sidebar_label: "teamwork (tanay)"
 ---
 
-## conflict of upbringing
+## Conflict of upbringing
 
-The main problem with us: nerds and geeks of India (don't know about other countries, can't comment), is that we are not programmed to work in a team since our childhood. We have been pressurised to compete against the kid next door, against our classmates, our cousins and everyone around us. Do you remember any subject where you would get marks for **teamwork**? As a society we are raising our kids wrong.
+The main problem with us, the nerds and geeks of India (can't comment about other countries), is that we were never programmed to work in a team during our childhood. Moreover, we were always pressurised and encouraged to compete against the kid next door, our classmates, cousins and everyone around us. Do you remember any subject where you were examined for **teamwork**? No? Then, it would be fair to say that, as a society, we are raising our kids wrong.
 
-## most stated problem
+## The popular problem
 
-While coming up with this book, we did surveys on what stops you from working on your side project, or coding daily, or anything which you want to do after office? And almost everyone replied that they lose the motivation as no one asks about it anymore. We complete our homework, our office work as we have exams or stand ups. Basically, we do work when we are answerable to someone.
-This is where I answered everyone to get a teammate. A learning buddy, a project partner. It will help you when you don't feel like working, and you will help when he/she doesn't feel like it. My favorite: **the pull push dynamics of learning**.
+While researching for this book, we conducted few surveys with students and employees to analyse the reasons stopping them from working on their side projects, coding or anything else, in after-hours? And almost everyone responded with a similar issue:  losing the motivation as no one asks or enquires about their side projects. It is well-known that we complete our homework, our office work or our school projects that has approaching deadlines or anticipatory reward attached to them. Basically, we only do work when we are answerable to someone.
+The solution to this popular problem is to get a teammate, a learning buddy or a project partner. They will help you whenever you won't feel like working, and you will help them whenever they feel the same. It leads to the creation of a symbiotic relationship and can be beautifully put as **the pull push dynamics of learning**. 
 
-## ok, how to get a teammate?
+Let's discuss the requisites for creating this learning dynamics and finding you a teammate.
 
-If you're looking for "where to find a teammate?", I would suggest read #15 first.
-Remember, how we were raised to be competitive. This needs to change. We need to cultivate a habit of looking forward to help. When you meet someone, listen with an intent to construct on his thought, don't argue to prove your intelligence (a lot many people do that, internet is filled with them), rather listen to help. Find out what they're looking for, challenges they are facing, their interests. Remember, **first step is communication**.
+## Take that constructive step
 
-## learn to pitch a project
+We know that  we are raised to be competitive and this instilled habit needs to change. To find a teammate, we must first cultivate a counter-habit of looking forward to help. 
 
-Do your homework. People like people who are well prepared on a project. Have a one page doc, a PPT. "I have a million dollar idea, I'm looking for a technical cofounder" sounds as vague and uninviting as possible. Don't be that person.
-Come up with exact tasks, goals for the other person. Have a clear win defined for them. Now, remember how in previous step you were listening to people with an intent to help? reach out to those people whose interests align with your goals. Always, and I repeat, always strive to create a **win win situation**.
+> Learn to meet everyone with an intent to listen and construct on their thoughts, not to argue and prove your intelligence
 
-## some personal experience
+( internet is flooded with such people).  Make a conscious effort to hear not only the words but listen to help. Find out the **complete message** that they are trying to communicated, for instances look for what they're looking for, or the challenges they are facing, or their interests. Remember, **first step is communication**.
 
-When folks ask me, "Tanay! how can you do so many things? Podcasts, Youtube, Book, Newsletter etc.?". My first response (in a very Tony Stark from Avengers 1 style) is, "I have a team". We are 3 on podcasts, 2 on newsletter, an entire group on Youtube/Instagram (we call ourselves Meta Universe). I don't think I have any project which I am doing all alone, all by myself.
+>### *PRO*-Start
+> Go and talk to anyone near you or call someone or find someone online, however possible, talk to a person and consciously try to listen and be constructive about it. Do it now. Find something to help, if not, learn about their interests or give them a genuine compliment. Realise that feeling.
+>
+I would suggest you to read #15, first, to understand more on how and where to find a teammate.
 
-## who is the perfect teammate?
 
-Someone with expertise in a different field. Let's take this book as an example, productivity is not my forte, I have got accidental success here, so I roped in an expert, who has done extensive study on it i.e. Satyam Sir. Moosa has tons of experience in marketing, so we teamed up for the React Newsletter, he took care of the entire setup, and I took care of the content curation. There are few things which I look for in a teammate, might be helpful for you as well:
+## Learn to pitch perfect
+
+Simply put, do your homework. People like people who are well prepared on a project. Do not make a one page doc or a PPT stating "I have a million dollar idea and I'm looking for a technical co-founder". It's vague and uninviting. Don't do that. Don't be that person. Be the person who comes up with exact tasks, clear goals and defined wins for the other person. 
+Once you have done your homework and gained clarity, reach out to those people whose interests align with your goals. Don't panic, you already have their names in your mind. They are the ones you listened to with an intent to help, as discussed in previous step, and whose interests aligned with yours. Always, and I repeat, always strive to create **a win-win situation**.
+
+## I have a team!
+
+When people ask me, "Tanay! how can you do so many things? Podcasts, Youtube, Book, Newsletter etc.?", all I say is, "***I have a team***" (and I say it with full flair like Tony Stark did in Avengers). Believe me, the ardour is real.  We are a team of 3 for podcasts, 2 for newsletter, 3 for this book and an entire group on Youtube/Instagram (we call ourselves the Meta Universe). I don't think I have any project which I am doing by myself.
+
+## Who is your perfect teammate?
+
+Your perfect teammate will always be someone with the expertise in a different field from yours. Let's take this book as an example, productivity is not my forte, I got accidental success here, so I roped in an expert, Satyam Sir, who has done extensive study on it. Whereas, Moosa, my React Newsletter teammate, has tons of experience in marketing. He took care of the entire setup, and I took care of the content curation. Following my forte in content curation, I have formed a list of few things that I look for in a teammate. This might be helpful for you:
 
 1. Expertise
-1. Motivated and Committed. He/She should have some past success and delivery history.
-1. Intelligence and Awareness so that he/she can bring new ideas to the table.
-1. Most importantly, personal connection and fun quotient. Coz I'm going to spend a lot of time with this person, might as well have fun while at it.
+1. Motivation and Commitment: They should have some success and delivery history.
+1. Intelligence and Awareness: They might bring new ideas to the table.
+1. Most importantly, personal connection and fun quotient:  You are going to spend a lot of time with this person, might as well have fun while at it.
 
-I have been almost always successful in finding the right teammate for any project. At the same time, I try to imbibe these 4 qualities in myself as well, so that people include me when they come up with an idea and looking for a teammate.
+I have been almost always successful in finding the right teammate for my projects. At the same time, I try to imbibe these 4 qualities to become a better teammate for others and be included in a team when they come up with an idea.
+
+>### *PRO*- Q
+> Ask yourself and write it down (Now!):
+> * What are some others qualities you think you might need in your teammate?
+> * What are the qualities you bring as a teammate? Do a check for the 4 qualities mentioned above as well.
+> 
+> Share it with your Pro-community, if you like.

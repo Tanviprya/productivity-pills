@@ -1,39 +1,53 @@
+
 ---
 id: 006A
 title: "consuming the community"
 sidebar_label: "social media++ (tanay)"
 ---
 
-## brain wants relief from productivity
+## Let your mind relax
 
-No matter how many books you read on productivity, you can't be in production mode all the time. Also, you can't be serious and learning all the time. Brain needs to relax. Like a normal human brain it might want to indulge in some drama, conflict, gossip, and sadly bit\*\*\*ng. Inadvertently, you would like to scroll endlessly through social media feeds. And let me tell you, it's perfectly okay to take a break.
+No matter how many books you read on productivity, you can't be productive all the time. Similarly, you can't be serious and learning all the time. Your brain needs to relax. Normally, every human brain wants to indulge in some drama, conflict, gossip, and sadly bit\*\*\*ng. Inadvertently, you would like to scroll endlessly through social media feeds and that's perfectly fine. One should take breaks. In this chapter we will discuss various tricks to use social media, the ultimate mind relaxer nowadays, to your advantage.
 
-## you can be productive even then
+## Choose your relaxers*
 
-Hey! I am going to tell you that you can be productive even when you're scrolling your social media feed. And I have done it. Initially I was hooked to buzzfeed type articles about movie stars and celebrity. Then I moved to Quora, and whenever I had some time I checked Quora, then moved to Twitter. On Twitter I only follow tech (especially JavaScript related) folks. From there I started looking at Hacker News and Reddit.
+But can you be productive even when you are not? Yes, and I am going to tell you how to do that even when you're scrolling through your social media feed. Initially, I was hooked to articles on movie stars and celebrities and then I decided to shift my focus. I moved to Quora from BuzzFeed, and whenever I felt like surfing and had some time I checked Quora. Gradually, I shifted to Twitter and made sure to follow tech (especially JavaScript related) people only. Lately, I have started looking at Hacker News and Reddit. I am sharing this chronological shift in my choice, from BuzzFeed on movie stars to tech-Tweets and Hacker News, to make you understand how to gradually shift to better relaxers or curate your social media consumption.
 
-## you learn even when consuming drama
+>### *PRO*-Q
+> Take a minute and ask yourself:
+> *  Where am I on my social media shift scale?
+> * What is my current relaxer?
+> * Do I need to curate my feeds?
 
-People on these forums are mean and argumentative a lot many times. If you go through comments you will get enough drama. But you'll also get perspective, experience and knowledge. To understand what they're saying you have to Google words/terminologies. Even to understand the puns and jokes. And slowly you'll learn their language. In my case, I learnt about startups and JS like this. So, this will teach you the "lingo"!
+## Lessons in online drama
 
-## using social media to your advantage
+There is no doubt that most of the people on several online forums are mean and argumentative. If you open any of these forums right now and go through the comments, you will witness enough drama. But you'll also gain perspective, experience and knowledge in between that drama. Those comments make you Google words or terminologies to understand the criticism, the arguments or the puns. This slowly leads you to learn their language. Personally, I learnt about startups and JavaScript like this. So, it's okay to witness some drama and simultaneously learn the "lingo"!
 
-You're the average sum of 5 people you hang out with. This is a widely popular rule. So, choose wisely the people you follow online. If you consume content on consumption like: clothing, food, travel etc. You will always feel inadequate and would want more. However, if you consume content on creation: design, presentation, programming etc. you will be inspired to create more. And creation brings the ultimate satisfaction and joy.
+>### *PRO*-Start
+> Go to one of your favorite online forums and pick 3 terminologies you do not understand and learn about it. Do not forget to share the lessons and the drama.
+>
 
-## train your social media feed
+## Choose what you eat
 
-Articifial Intelligence of Facebook, Twitter, and especially Youtube is your friend. Stop liking memes, stop following those pages and you will see in a month those suggestions are gone. My YT only shows TedTalks, my FB only shows content from the programming groups I am in and Twitter recommends only web dev content. Just give this feedback to your feed, like useful content, and hide useless ones. Slowly, these distractions will go away.
+Jim Rohn, a motivational speaker, famously said that we are the average of the five people we spend the most time with. One should live by this rule and choose wisely whom to follow online. If you consume online content on consumption such as clothing, food, travel etc., you will always feel inadequate and wish for more. However, if you consume content on creation including design, presentation, programming etc., you will be inspired to create more. Therefore, always choose creation as it brings the ultimate satisfaction and joy.
 
-## use the community chat room
+## Train your social media feed
 
-You have graduated now, you know the lingo, you have consumed creational content, you have created stuff. Next step is to talk these folks, and virtually hangout with them. Whatever you want to learn more, whatever you want to create more, find chatrooms for it, telegram group, discord server, slack, subreddits, anything and everything. And get your foot in the door.
+Artificial Intelligence of Facebook, Twitter, and especially Youtube is your friend and you should utilise this friendship. Stop liking memes and stop following those pages and you will see those suggestions or pop-ups will disappear in a month. My YouTube recommends me TedTalks only, my FB shows content from the programming groups that I am in and Twitter recommends web development content only. Train and give clear feedbacks to your social media feed by liking useful content, and hiding useless ones. Slowly, these distractions will go away.
 
-Form your opinions, have strong ones, but hold those weakly. Be open to learn. Then you will form real connections inside the community. Don't be afraid to express yourself in group. Reach out to people for 1:1 discussion. This is where you form partnerships and teams (#16 ).
+## Get your foot in the door
 
-## the eureka moment for this chapter
+Let's say you have graduated now, you know the lingo, you have consumed creational content and you have created content as well. Next step is to talk and virtually hangout with the community. Find chatrooms, telegram group, discord server, slack, subreddit, anything and everything related to whatever you want to learn more about, or whatever you want to create more. Once found, get your foot in the door.
 
-I was making Maggie. But it was not Maggie, it was Patanjali Noodles. And then it hit me. Earlier Baba Ramdev used to curse maggie left, right and center. But then he understood that people are not going to give it up, so he came up with a better alternative. This made me look back on my life and I wrote this chapter while making it, coz you know no maggie can be done in 2 minutes. So, utilised that time.
+I would suggest you to form your own opinions, strong ones, but do not hold them dearly. Be open to learn and you will form real connections inside the community. Don't be afraid to express yourself in the groups. Reach out to people for 1:1 discussion. This is where you form partnerships and teams (read chapter #16 ).
 
-## conclusion
+## The Maggie moment*
 
-Just by slowly elevating your brain to consume the right kind of drama, by making it used to a break (which is not break), you can change your outlook and life. Everything in this book comes from personal experience but this particular chapter has helped me a ton in learning quickly. I have changed fields from network security to AI to web dev. And every time I needed to start over, I did exactly this. My playbook is now out in the open! :)
+One find day, I was cooking Maggie. I noticed that it was not Maggie but Patanjali Noodles. And then it hit me. I remembered the time when Baba Ramdev used to curse Maggie left, right and center. Then why would he make a similar product? Because he understood that people are not going to give it up and he needs to provide a better alternative. While cooking the noodles ( can't call it Maggie now, can I?), I looked back at my life and figured that some online forums are similar to Maggie and all we need to do is find a better alternative because, let's be honest, we are not going cut social media out of our lives. With that thought, I wrote this chapter while cooking the noodles. No maggie (noodles) can be cooked in 2 minutes so why not utilise the time.
+
+## Conclusion
+
+Hence, you can change your outlook and life by elevating your brain to consume the right kind of drama, by making it used to a break (which is not a break, hush!) and by clearing your feed. Everything in this book comes from personal experience but this particular chapter is special as it has helped me a lot in learning quickly. I have changed fields in my career from network security to AI to web development and every time I needed to start over, I did exactly this. My playbook is out in the open now! :)
+
+
+*All comments and depiction made about the products and brands mentioned in this chapter are personal views and opinions of the author solely. There is no intention to paint or depict any brand, product or manufacturer in an unsavoury light.

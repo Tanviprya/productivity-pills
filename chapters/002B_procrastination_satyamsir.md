@@ -4,37 +4,60 @@ title: "Procrastinate Procrastination"
 sidebar_label: "procrastination (satyam)"
 ---
 
-## what is it?
+## We all procrastinate
 
-'Procrastination' is the habit of delaying any work till the last moment. Have you ever procrastinated the things in your life ? Did it harm you in some way ? I know if you are honest the answer will be 'yes'. No one is exception here. We all procrastinated the important task of life more or less. But who procrastinated the less got the more. You can say' 'less procrastination brings more success'.
-Now, if you want to leave this habit, I would like to discuss here top four causes and their remedies one by one which I have searched through world's best seller books on this topic with adding my own experiences about it.
+'Procrastination' is the habit of delaying any work till the last moment. Have you ever procrastinated the things in your life? Did it harm you in any way? If you are being honest, the answer will definitely be a 'yes'. No one is an exception here. But whoever procrastinated the least got the most. We can say 'procrastination is inversely proportional to success'.
+Now, let's discuss how we can start to stop procrastinating. We will discuss its four essential causes and their remedies one by one. The knowledge I will be sharing, here, includes the information collected from the world's best seller books and my personal experiences regarding this.
 
-## punishment and reward
+## Your own Speedy Trials 
 
-The first major cause of procrastination is "Not a clear punishment and reward in present time". When you feel that there is no punishment and reward in present time for the things we easily procrastinate that. For example, we easily procrastinate our exercise schedule because we don't find reward and punishment for it in present Or easily procrastinate our study schedule if there is no exam dates nearby.
+The major cause of procrastination is to not have a clear and immediate punishment and reward system for the tasks, one wishes to complete or avoid, which ultimately leads to procrastination. For example, we easily procrastinate our exercise schedule because we don't see any change in our body at that very moment or procrastinate in our studies if there are no approaching exams.
 
-To leave such kind of procrastination I will suggest to set an immediate punishment and reward from your own side to start the small things for new things which you think is going to benefit you in your life in long term. For example, you can restrict your mind that I will take my favourite food or will watch my favourite movie when I will finish the task in hand or when I will start doing this project etc.
-You can also adopt the **'two minutes method'.** Means you can train your mind that if any assignment or work comes to me I will do that immediately at least only for 2 minutes. Because it will break the inertia of our mind and most of the times it is observed that if we start doing anything for two minutes our mind easily continue that further.
+To overcome such situations, I will suggest to set an immediate punishment and reward from yourself. Let's call it our own speedy trials, where you adjudge your actions as immediate as possible and declare your rewards and punishments. You must start small, but choose new things that will benefit you in long term. For example, you can train your mind and declare that you will have your favourite food or watch your favourite movie only after you finish this task at hand or when you will start doing that project etc.
 
-## fear of failure
+You can also adopt the **'two minutes method'**, where you can train your mind in a way that if any assignment or work comes to you, you will do that immediately for 2 minutes at least. This habit will break the inertia of your mind as it has been observed that if we start doing anything for two minutes our mind will mostly continue with that task.
 
-The second major cause of procrastination is 'Fear of failure'. Our mind loves to do such work that is either easy aur which gives it a feeling of joy and success. We can also relate it with our ego system. This kind of people are always afraid of others opinion. In Hindi it is said, _'Inka sabse bada rog kya kahenge log'._
-The best remedy of it is to give your mind a clear logic of doing any new work. For example, the two lines of Javed Akhtar which helps me in putting new and valuable habits in my life is 'Kyon daren jindagi me kya hoga kuchh na hoga to tajurba hoga'. Means, why to worry in doing new things. It is going to give experience even after failing in it and that will be a valuable asset for our life. It is also said that, _'Manjil mil hi jayegi der se hi sahi, gumrah to wo hein jo ghar se nikale hi nahin'._ So let's start the journey of success together.
+## Re-define failure
 
-## low energy
+The second major cause of procrastination is the 'Fear of failure'. Our mind loves to do such work that is either easy or gives us a feeling of success and joy. It could also relate to boosting one's ego. People afraid of failures are always afraid of others' opinions. In Hindi, we say: _'Inka sabse bada rog kya kahenge log'._ (The most critical ailment for few people is always about what others might talk or think about them.)
+This fearful thought against trying new activities should always be conquered by these two lines of Javed Akhtar:
 
-The third major cause of procrastination is "low energy level". It is basically of two types physical and mental. Both are interrelated as they influence each other. If we are in low energy level we will not be able to even follow our daily routine life. The remedy is very simple but most of the people don't adopt it. If anyone wants to boost his energy level only balance diet, balance rest and balance dose of exercise is recommended. We will deal with balance dose of exercise in our day to day life in next chapter.
 
-For balanced diet we should eat a variety of food especially filled with fresh fruits and green vegetables. It is also revealed by the nutritionists that we should concentrate on the of the food which we are eating and grind it properly in the mouth. It gives our body a positive symptom of taking food and thus our brain give signal to secret all kind of good enzymes to digest the taken food properly.
+> *'Kyon dare zindagi me kya hoga, kuch nah hoga toh tazurbah hoga.'*
 
-For balance rest and sleep I recommend people 'Counting the deep breath with body relaxation method'. Many people including me have adopted this method successfully to sleep deeply and wake up with greater energy level. In this method when you go to your bed in night then after completion of sleeping rituals like evaluating your present day and planning your next day l mentally. Start taking slow and deep breath with counting it mentally. After inhaling and exhaling deeply once we have to count one and likewise we should go forward. In this process our body should be fully relaxed and we should watch the deep breathing process. If your body really need a sleep you will not be able to count a continuous hundred breath. If anyhow you will be successful, It will give your body proper rest and fill it with more oxygen for proper functioning of other system. So, we should practice it regularly.
 
-## inertia
+(Why should one worry about doing new things in life or about its outcomes, one will gain experience even in the face of failures and that will always be a valuable asset for their life.)  These lines have helped me in trying and acquiring new, challenging yet valuable habits in my life. Therefore, I would suggest you to take some risk, start your journey, be it small but take action and be open for failures. There is no point in maintaining the status quo because of the fear of failures. I would leave you with these lines:
 
-The fourth and the last major cause of procrastination is "Our brain wants to live in its comfort zone". It is also observed that our brain acts according to 'Law of Inertia'. It tends to live at its initial position and hinders to start any new task. If anyone wants to act against this Law of Inertia of our mind they should work on their will power. Because it is the most powerful tool to break this comfort zone and all the other cause of procrastination. Will power is alone sufficient to eradicate all the problems related to our mind.
 
-Now, we should discuss the method to develop the willpower. I am sharing here what I have successfully examined and practiced in my own life. If you want to increase your willpower you should start with small things. Even small things like sitting in a place with closed eyes for 5 minutes can increase your willpower a little bit and can create a base to increase it further. Just you have to practice to do such things consciously. Even if you are walking around your home or drinking water just decide it in advance in simple and funny way like, this time I will take only 50 steps and I will return to my study table or I will finish this glass of water in 5 sips.
+> _*'Manzil mil hi jayegi... bhatak kar hi sahi, gumrah to wo hain jo ghar se nikale hi nahin.'*
 
-Initially you may think, _'will it really work'?_ But believe me, when your brain will train in doing what you are deciding in advance. It will start working according to your will without procrastination.
 
-At last, I want to summarise this chapter in two small instructions, 'start small' and 'continue your efforts even after failures'. So don't wait, if you really want to leave this habit just for practice close the book right now and start doing any other important task in your hand at least for few minutes without any further procrastination.
+It says that you will find your destination eventually, even if you get lost in the way. Whereas, the truly lost ones are those who never stepped out of their home or comfort zones. The real failure is failing to try. So, let's start the journey of success together.
+
+## Find your balance
+
+The third major cause of procrastination is "low energy level". It can be physical or mental. These are interrelated and influence each other. It would be difficult for us to even follow our daily routine if we do not have energy for it. The well known and most simple remedy for this is to ensure a balanced diet, some balanced rest and balanced exercise. 
+
+First, for a balanced diet we must consider eating a variety of food, especially fresh fruits and green vegetables. Nutritionists always advocate to concentrate on our food while eating and grind it properly. This practice signals positive symptoms to our body resulting in sending multitudes of interacting signals to our brain leading to secretion of all kind of good enzymes to digest the food properly.
+
+Second, for some balanced rest or sleep, I recommend people to 'Counting deep breaths with body relaxation method'. This method has been adopted by a lot of people, including me, to attain deep sleep and feel more energetic in the morning. This method involves, first, completing one's sleeping rituals like evaluating your present day and planning your next day and then taking slow and deep breaths and counting them mentally. Each completed cycle of inhale and exhale is counted as one and is continued accordingly. We should ensure that our body is fully relaxed during this process while we watch our deep breathing. The most interesting part is you won't complete your count for a hundred breaths if your body needs rest. We should practice this method regularly to get deep sleep, provide our body proper rest and fill it with more oxygen for better functioning. 
+
+Third, we will discuss about the balanced dose of exercise in detail in the next chapter.
+
+
+## Joy in Mundane
+
+The fourth and the last major cause of procrastination is "Our brain's love for its comfort zone". Our brain acts follows the 'Law of Inertia'. It tends to live at its initial position and hinders to start anything new. The best way to act against this inertia of our mind is to work on our will power. Will power is the most vital weapon to eradicate all the problems related to our mind.
+
+I will share my own method, that I have successfully examined and practiced, to increase will power. The first step is to start small, for instance sitting in a place with closed eyes for 5 minutes can increase your will power a little bit everyday. The second ingredient is to practice to do such small things consciously. Make conscious decisions relating to simple tasks, in a funny manner,  for example if you are about to walk around your home or drink water just take a second and decide in advance that this time you will take 50 steps before returning to your study table or you will finish one glass of water in 5 sips. And then, do it exactly as you decided to do.
+
+Initially, you might question this method and argue its workability.  But believe me, these small funny conscious decisions will train your brain in doing what you are deciding in advance. Eventually, your brain will start working according to your will without procrastinating.
+
+>### *PRO*-Start
+> Choose one mundane task and make it funny by adding a conscious limit to it. Do it now. Realise that feeling after completion. Do share it with us if it's shareable.  
+
+
+At last, I want to summarise this chapter with two small instructions, 'start small' and 'continue putting efforts even after failures'. 
+
+>### *PRO*-Start
+>   Don't wait. If you really want to change things just close the book right now and start doing any other important task at your hand for few minutes without any further procrastination.

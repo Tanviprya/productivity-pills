@@ -11,7 +11,7 @@ No matter how many books you read on productivity, you can't be productive all t
 
 ## Choose your relaxers*
 
-But can you be productive even when you are not? Yes, and I am going to tell you how to do that even when you're scrolling through your social media feed. Initially, I was hooked to articles on movie stars and celebrities and then I decided to shift my focus. I moved to Quora from BuzzReed, and whenever I felt like surfing and had some time I checked Quora. Gradually, I shifted to Twitter and made sure to follow tech (especially JavaScript related) people only. Lately, I have started looking at Hacker News and Reddit. I am sharing this chronological shift in my choice, from BuzzReed on movie stars to tech-Tweets and Hacker News, to make you understand how to gradually shift to better relaxers or curate your social media consumption.
+But can you be productive even when you are not? Yes, and I am going to tell you how to do that even when you're scrolling through your social media feed. Initially, I was hooked to articles on movie stars and celebrities and then I decided to shift my focus. I moved to Quora from BuzzFeed, and whenever I felt like surfing and had some time I checked Quora. Gradually, I shifted to Twitter and made sure to follow tech (especially JavaScript related) people only. Lately, I have started looking at Hacker News and Reddit. I am sharing this chronological shift in my choice, from BuzzFeed on movie stars to tech-Tweets and Hacker News, to make you understand how to gradually shift to better relaxers or curate your social media consumption.
 
 >### *PRO*-Q
 > Take a minute and ask yourself:
